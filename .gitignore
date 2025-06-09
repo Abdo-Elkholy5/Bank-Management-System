@@ -1,0 +1,18 @@
+# Ignore Visual Studio temp files
+.vs/
+*.suo
+*.user
+*.VC.db
+*.opendb
+*.opensdf
+
+# Ignore build folders
+Debug/
+Release/
+x64/
+*.obj
+*.pdb
+*.exe
+
+# Ignore logs and temporary files
+*.log
