@@ -1296,7 +1296,7 @@ short ReadChoice()
     short Number = 0;
     do
     {
-        cout << "Choose What do you want to do? [1,7]?" << endl;
+        cout << "Choose What do you want to do? [1,8]?" << endl;
         cin >> Number;
     } while (Number < 1 || Number > 8);
     return Number;
