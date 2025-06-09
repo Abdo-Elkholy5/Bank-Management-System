@@ -1,0 +1,4 @@
+﻿  Bank Management System.cpp
+D:\C++\course 8\Bank Management System\Bank Management System.cpp(220,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\course 8\Bank Management System\Bank Management System.cpp(800,1): warning C4715: 'WhatisTheTransactionsChoice': not all control paths return a value
+  Bank Management System.vcxproj -> D:\C++\course 8\Bank Management System\x64\Debug\Bank Management System.exe
